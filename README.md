@@ -18,6 +18,22 @@ You may need to install these packages first:
 2. `cd InsertImagePlus/`
 3. `.\setup.bat`
 
+### Usage
+
+Select "Insert/Change Image" from the "Add-Ins" tab of the ribbon, and you will get a file dialog where you can load your image:
+
+![alt text](https://github.com/kennywei815/InsertImagePlus/blob/master/Office_Add-Ins.png)
+
+![alt text](https://github.com/kennywei815/InsertImagePlus/blob/master/FileDialog.png)
+
+Choose your image, and click on "Open". InsertImage++ will convert your image into PNG format, and insert it into Office.
+
+![alt text](https://github.com/kennywei815/InsertImagePlus/blob/master/Result.png)
+
+If you need to change the image, just select the image, then click on "Insert/Change Image" again, and the file dialog will re-appear so you can load another image.
+
+You can also treat the loaded image as an ordinary PowerPoint image. For example, it can be grouped, animated, rotated, moved, and resized. Further editing of the loaded image will preserve all these changes.
+
 # License
 Copyright (c) 2017 Cheng-Kuan Wei Licensed under the Apache License.
 
